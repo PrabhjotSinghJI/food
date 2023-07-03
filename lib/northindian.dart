@@ -14,7 +14,7 @@ class _NorthState extends State<North> {
     return Scaffold(
       appBar: AppBar(title: const Text('')),
       body: Padding(
-        padding: EdgeInsets.all(8.0),
+        padding: const EdgeInsets.all(8.0),
         child: SingleChildScrollView(
           child: Column(
             children: [
