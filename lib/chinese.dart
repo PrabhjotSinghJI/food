@@ -11,6 +11,7 @@ class _ChineseState extends State<Chinese> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+
         body: Container(
             decoration: const BoxDecoration(
               gradient: LinearGradient(
